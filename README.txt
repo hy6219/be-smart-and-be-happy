@@ -15,6 +15,11 @@ I noted my idea on BOJ2440.cpp! I hope anyone share another idea about it!
 3.update:21-01-2019
 Share about my thought about BOJ2441 problem!
 
+4.update:22-01-2019
+BOJ1924.cpp
+Problem: Know about the day of the week in 2007
+Sol    : Make Array start from (0,0)-(11,364)
+https://www.acmicpc.net/problem/1924
 
 this one is the program that prints string when you wrote on console until you press 'Q'!
 you can modify it to another key! Or modify it with switch-case/if-else loop!
