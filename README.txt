@@ -21,6 +21,13 @@ Problem: Know about the day of the week in 2007
 Sol    : Make Array start from (0,0)-(11,364)
 https://www.acmicpc.net/problem/1924
 
+5.update:22-01-2019
+BOJ8393.cpp
+Problem: Sum 1 to N
+Sol    : n*(n+1)/2
+       : make function
+       https://www.acmicpc.net/problem/8393
+       
 this one is the program that prints string when you wrote on console until you press 'Q'!
 you can modify it to another key! Or modify it with switch-case/if-else loop!
 Enjoy your coding!
