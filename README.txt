@@ -12,6 +12,9 @@ If you want to check cpp code, you can check "basic-text-printer.cpp"
 I'm trying to study algorithm with BOJ! BOJ2440.cpp is the one of the problems which I solved!
 I noted my idea on BOJ2440.cpp! I hope anyone share another idea about it!
 
+3.update:21-01-2019
+Share about my thought about BOJ2441 problem!
+
 
 this one is the program that prints string when you wrote on console until you press 'Q'!
 you can modify it to another key! Or modify it with switch-case/if-else loop!
