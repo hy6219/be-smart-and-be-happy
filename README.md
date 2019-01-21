@@ -10,12 +10,7 @@ If you want to check cpp code, you can check "basic-text-printer.cpp"
 
 2.update:21-01-2019
 I'm trying to study algorithm with BOJ! BOJ2440.cpp is the one of the problems which I solved!
-Problem- * must be printed like
-*****
-****
-***
-**
-*
+I noted my idea on BOJ2440.cpp! I hope anyone share another idea about it!
 
 
 this one is the program that prints string when you wrote on console until you press 'Q'!
