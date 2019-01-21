@@ -10,8 +10,7 @@ If you want to check cpp code, you can check "basic-text-printer.cpp"
 
 2.update:21-01-2019
 I'm trying to study algorithm with BOJ! BOJ2440.cpp is the one of the problems which I solved!
-Problem) "*" must be printed like
-if input=5
+Problem- * must be printed like
 *****
 ****
 ***
