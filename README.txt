@@ -34,7 +34,14 @@ BOJ11720.cpp
 Problem:Sum N numbers that has no blank or EOF
 Sol: using atoi and some buffer for storing xth number! and sum all immediately!
 https://www.acmicpc.net/problem/11720
-       
+
+7.update:22-01-2019
+boj9498.cpp
+problem: decision of grade!
+sol: using if-else if-else  |or| switch-case
+https://www.acmicpc.net/problem/9498
+#백준#9498번#C++#c++
+
 this one is the program that prints string when you wrote on console until you press 'Q'!
 you can modify it to another key! Or modify it with switch-case/if-else loop!
 Enjoy your coding!
