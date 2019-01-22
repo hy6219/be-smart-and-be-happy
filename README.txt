@@ -1,6 +1,7 @@
 # be-smart-and-be-happy
 the one who want to study in embedded system+IoT!!
-In here, I want to share cpp study with all! Thank you!
+In here, I want to share cpp study with all! In here, I want to share more different idea about
+algorithm! I'm studying with BOJ(Baekjoon Online Judge)! Thank you!
 Good Luck everyone!
 ======================================
 1. update: 08-01-2019
