@@ -27,6 +27,12 @@ Problem: Sum 1 to N
 Sol    : n*(n+1)/2
        : make function
        https://www.acmicpc.net/problem/8393
+
+6.update:22-01-2019
+BOJ11720.cpp
+Problem:Sum N numbers that has no blank or EOF
+Sol: using atoi and some buffer for storing xth number! and sum all immediately!
+https://www.acmicpc.net/problem/11720
        
 this one is the program that prints string when you wrote on console until you press 'Q'!
 you can modify it to another key! Or modify it with switch-case/if-else loop!
