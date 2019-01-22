@@ -42,6 +42,11 @@ sol: using if-else if-else  |or| switch-case
 https://www.acmicpc.net/problem/9498
 #백준#9498번#C++#c++
 
+8.update:22-01-2019
+boj15552.cpp
+problem:fast calculation of add using" ios::sync_with_stdio(false)+cin.tie(NULL)"
+sol:using for loop
+
 this one is the program that prints string when you wrote on console until you press 'Q'!
 you can modify it to another key! Or modify it with switch-case/if-else loop!
 Enjoy your coding!
