@@ -53,6 +53,10 @@ problem:print arr[i] when arr[i]<X
 arr[N]-size of array(N) must be written by user
 sol:using if+for
 
+10.update:23-01-2019
+BOJ1546.cpp
+백준 온라인 저지 알고리즘 문제 1546번
+
 this one is the program that prints string when you wrote on console until you press 'Q'!
 you can modify it to another key! Or modify it with switch-case/if-else loop!
 Enjoy your coding!
