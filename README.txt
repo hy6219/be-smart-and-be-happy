@@ -47,6 +47,12 @@ boj15552.cpp
 problem:fast calculation of add using" ios::sync_with_stdio(false)+cin.tie(NULL)"
 sol:using for loop
 
+9.update:23-01-2019
+BOJ10871.cpp
+problem:print arr[i] when arr[i]<X
+arr[N]-size of array(N) must be written by user
+sol:using if+for
+
 this one is the program that prints string when you wrote on console until you press 'Q'!
 you can modify it to another key! Or modify it with switch-case/if-else loop!
 Enjoy your coding!
