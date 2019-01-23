@@ -57,6 +57,11 @@ sol:using if+for
 BOJ1546.cpp
 백준 온라인 저지 알고리즘 문제 1546번
 
+11.update:23-01-2019
+BOJ4344.cpp
+problem: N Testcase, (the number of students, scores) per testcase
+sol: using for loop (3)+ if
+
 this one is the program that prints string when you wrote on console until you press 'Q'!
 you can modify it to another key! Or modify it with switch-case/if-else loop!
 Enjoy your coding!
