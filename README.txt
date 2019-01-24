@@ -8,6 +8,9 @@ Good Luck everyone!
 Happy New Year!
 the file "co)jisoojeong_text printer.zip" is the release version edited by visual studio 2017
 If you want to check cpp code, you can check "basic-text-printer.cpp"
+this one is the program that prints string when you wrote on console until you press 'Q'!
+you can modify it to another key! Or modify it with switch-case/if-else loop!
+Enjoy your coding!
 
 2.update:21-01-2019
 I'm trying to study algorithm with BOJ! BOJ2440.cpp is the one of the problems which I solved!
@@ -62,6 +65,13 @@ BOJ4344.cpp
 problem: N Testcase, (the number of students, scores) per testcase
 sol: using for loop (3)+ if
 
-this one is the program that prints string when you wrote on console until you press 'Q'!
-you can modify it to another key! Or modify it with switch-case/if-else loop!
-Enjoy your coding!
+12.update:24-01-2019
+BOJ4673.cpp
+problem: the function named "d(n)" can be defined as " n + (n / 1000) + (n % 1000) / 100 + (n % 100) / 10 + (n % 10)"
+because max of "n" is 10000. and we can call the generator as "self number", result by func "not self number"
+we must print self number
+sol:1.make function d(n)
+2.make array that can mark if it is self number or not by using for loop
+3.make another for loop for print self number by using index
+
+Happy Coding!
