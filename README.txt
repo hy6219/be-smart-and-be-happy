@@ -74,4 +74,13 @@ sol:1.make function d(n)
 2.make array that can mark if it is self number or not by using for loop
 3.make another for loop for print self number by using index
 
+13.update:24-01-2019
+BOJ1065.cpp
+problem: there were only one input named "N". N is the natural number less than 1000!!
+We can call specific case as "Hansu", which is the number that its digit can be arithmetic sequence
+as "123,567"
+sol: make function to process for specific pattern
+:-1.write N 2. X<=N 3.Check that X is hansu 4. count the number of hansu
+:using for loop and if 
+
 Happy Coding!
