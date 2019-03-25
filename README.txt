@@ -83,4 +83,8 @@ sol: make function to process for specific pattern
 :-1.write N 2. X<=N 3.Check that X is hansu 4. count the number of hansu
 :using for loop and if 
 
+14.updeate:26-03-2019
+selection_sort_algorithm.cpp
+study about selection sort algorithm
+
 Happy Coding!
