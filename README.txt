@@ -87,4 +87,16 @@ sol: make function to process for specific pattern
 selection_sort_algorithm.cpp
 study about selection sort algorithm
 
+
+15.update:06-04-2019
+heapSort.cpp
+study about heap sort algorithm
+sol)step1.build heap structure
+    step2.make heapify function that keeps heap's shape
+    step3.make heapsort main function to integrate step1 and step2
+    
+    complex=O(nlogn)
+    
+
+
 Happy Coding!
