@@ -97,6 +97,10 @@ sol)step1.build heap structure
     
     complex=O(nlogn)
     
+16.update:09-04-2019
+counting_sort.cpp
 
+study about counting sort!
+I wrote stages on my "counting_sort.cpp" file!(with /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/)
 
 Happy Coding!
