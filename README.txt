@@ -103,4 +103,17 @@ counting_sort.cpp
 study about counting sort!
 I wrote stages on my "counting_sort.cpp" file!(with /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/)
 
+17. update:12-04-2019
+binary.c
+/*Let's make basic program that prints the binary value from your input!(decimal input!)
+while loop: when input>0, store the remain value
+for loop: print from index 7 because I supposed 8bit value!*/
+
+
+
+
+
+
+
+==============================================================================================
 Happy Coding!
