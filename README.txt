@@ -110,8 +110,11 @@ while loop: when input>0, store the remain value
 for loop: print from index 7 because I supposed 8bit value!*/
 
 
-
-
+18. update:22-04-2019
+buffer_flow_prevention.c
+let's consider about the importance of "%*c/%*s/..............................................................."
+1)get useful data from outstream
+2)remove \n in scanf to prevent buffer overflow
 
 
 
