@@ -116,6 +116,9 @@ let's consider about the importance of "%*c/%*s/................................
 1)get useful data from outstream
 2)remove \n in scanf to prevent buffer overflow
 
+19. update:23-04-2019
+time_convert.c
+get second input from user and convert it to hh:mm:ss
 
 
 ==============================================================================================
