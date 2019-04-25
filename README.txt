@@ -120,6 +120,9 @@ let's consider about the importance of "%*c/%*s/................................
 time_convert.c
 get second input from user and convert it to hh:mm:ss
 
+20. update:26-04-2019
+triangles.c
+draw triangles
 
 ==============================================================================================
 Happy Coding!
