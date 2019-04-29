@@ -124,5 +124,8 @@ get second input from user and convert it to hh:mm:ss
 triangles.c
 draw triangles
 
+21. update:30-04-2019
+bubble_sort.c
+sorting algorithm review_bubble sort
 ==============================================================================================
 Happy Coding!
