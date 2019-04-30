@@ -127,5 +127,9 @@ draw triangles
 21. update:30-04-2019
 bubble_sort.c
 sorting algorithm review_bubble sort
+
+22. update:01-05-2019
+selection_new.c
+selection algorithm using index
 ==============================================================================================
 Happy Coding!
