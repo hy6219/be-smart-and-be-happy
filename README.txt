@@ -131,5 +131,9 @@ sorting algorithm review_bubble sort
 22. update:01-05-2019
 selection_new.c
 selection algorithm using index
+
+23. update:03-05-2019
+snail_sort.c
+print out 5*5 2d snail array..!ㅜ0ㅜ(sad..!)
 ==============================================================================================
 Happy Coding!
