@@ -143,5 +143,10 @@ seperate user interface and internal function/operation is very important!
 25. update: 06-05-2019
 string_pointer.c
 calculate the length of string using pointer
+
+26. update: 06-05-2019
+memory_allocation.c
+dynamic memory allocation using malloc and free
+
 ==============================================================================================
 Happy Coding!
