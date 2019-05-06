@@ -139,5 +139,9 @@ print out 5*5 2d snail array..!ㅜ0ㅜ(sad..!)
 24. update:04-05-2019
 seperated_ui.c
 seperate user interface and internal function/operation is very important!
+
+25. update: 06-05-2019
+string_pointer.c
+calculate the length of string using pointer
 ==============================================================================================
 Happy Coding!
