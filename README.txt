@@ -148,5 +148,9 @@ calculate the length of string using pointer
 memory_allocation.c
 dynamic memory allocation using malloc and free
 
+27. update: 06-05-2019
+prime_number.c
+decide whether it is prime number or not
+
 ==============================================================================================
 Happy Coding!
