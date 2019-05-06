@@ -152,5 +152,14 @@ dynamic memory allocation using malloc and free
 prime_number.c
 decide whether it is prime number or not
 
+28. update: 07-05-2019
+memory_array_size.c
+1)compiler can decide the size of array even if we don't write the size of array like "char arr[]={"Hello"};"
+2)pointer-1) is stored at stack. But pointer, it stores r-value in the text section memory (data section. that can read only)
+The standard address that first word 'H' is stored is the initialized value of pointer
+Remember! It is not DYNAMIC ALLOCATION!
+3)dynamic allocation & initialization about pointer-text section that can read only
+so only use r-value form!
+
 ==============================================================================================
 Happy Coding!
