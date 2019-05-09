@@ -161,5 +161,8 @@ Remember! It is not DYNAMIC ALLOCATION!
 3)dynamic allocation & initialization about pointer-text section that can read only
 so only use r-value form!
 
+29. update: 09-05-2019
+memory_pointer.c
+compare, search strings
 ==============================================================================================
 Happy Coding!
