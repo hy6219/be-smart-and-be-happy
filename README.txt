@@ -164,5 +164,9 @@ so only use r-value form!
 29. update: 09-05-2019
 memory_pointer.c
 compare, search strings
+
+30. update: 14-05-2019
+typedef_struct.c
+review strcmp func+study about the struct's usage as parameter!
 ==============================================================================================
 Happy Coding!
