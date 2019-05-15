@@ -168,5 +168,9 @@ compare, search strings
 30. update: 14-05-2019
 typedef_struct.c
 review strcmp func+study about the struct's usage as parameter!
+
+31. update: 15-05-2019
+bufferedreader_conception_ifelse_ioexception.java
+Let's review about the BufferedReader+IOException+ifelse !!
 ==============================================================================================
 Happy Coding!
