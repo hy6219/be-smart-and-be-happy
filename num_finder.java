@@ -33,7 +33,7 @@ public class num_finder {
 				}
 				else
 				{
-					System.out.println("힌: 더 큰 수!");
+					System.out.println("힌트: 더 큰 수!");
 
 				}
 			}
