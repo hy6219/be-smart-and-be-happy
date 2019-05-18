@@ -29,11 +29,11 @@ public class num_finder {
 				System.out.println("도전 가능 횟수: "+(10-rotation));
 				if(input>hide_num)
 				{
-					System.out.println("힌드: 더 작은 수!");
+					System.out.println("힌트: 더 작은 수!");
 				}
 				else
 				{
-					System.out.println("힌드: 더 큰 수!");
+					System.out.println("힌: 더 큰 수!");
 
 				}
 			}
