@@ -176,5 +176,9 @@ Let's review about the BufferedReader+IOException+ifelse !!
 32. update: 18-05-2019
 simple_kinetic_energy.java
 make simple kinetic energy decision program in java!
+
+33. update: 18-05-2019
+num_finder.java
+you can try 10 rotation! to check hide number! LoL
 ==============================================================================================
 Happy Coding!
