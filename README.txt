@@ -180,5 +180,9 @@ make simple kinetic energy decision program in java!
 33. update: 18-05-2019
 num_finder.java
 you can try 10 rotation! to check hide number! LoL
+
+34. update: 19-05-2019
+java_oop_study.java
+let's study oop with java!
 ==============================================================================================
 Happy Coding!
