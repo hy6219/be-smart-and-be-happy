@@ -172,5 +172,9 @@ review strcmp func+study about the struct's usage as parameter!
 31. update: 15-05-2019
 bufferedreader_conception_ifelse_ioexception.java
 Let's review about the BufferedReader+IOException+ifelse !!
+
+32. update: 18-05-2019
+simple_kinetic_energy.java
+make simple kinetic energy decision program in java!
 ==============================================================================================
 Happy Coding!
