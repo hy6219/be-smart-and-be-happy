@@ -184,5 +184,11 @@ you can try 10 rotation! to check hide number! LoL
 34. update: 19-05-2019
 java_oop_study.java
 let's study oop with java!
+
+35. update: 19-05-2019
+ScannerExam.java
+practice about using scanner in java
+Be careful about the Integer token when you try to read complex vars in same scanner!
+scanner.nextLine() to get rid of token!
 ==============================================================================================
 Happy Coding!
