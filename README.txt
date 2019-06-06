@@ -190,5 +190,10 @@ ScannerExam.java
 practice about using scanner in java
 Be careful about the Integer token when you try to read complex vars in same scanner!
 scanner.nextLine() to get rid of token!
+
+36. update: 06-06-2019
+sort_inside.c
+
+BOJ; Baekjoon online judge sitesortinside problem #1427
 ==============================================================================================
 Happy Coding!
