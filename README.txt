@@ -199,5 +199,24 @@ BOJ; Baekjoon online judge sitesortinside problem #1427
 bubble_review.cpp
 review bubble sort algorithm
 
+38. update: 09-06-2019
+boj2577.cpp
+algorithm-realization
+calculate a*b*c ,
+get digit(like if a=3,b=4,c=5-->result=60, digits...6,0),
+count the number of digits like 
+how many 0/1/.......s-->(if ex=60) print
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+
+
 ==============================================================================================
 Happy Coding!
