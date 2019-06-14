@@ -217,6 +217,10 @@ how many 0/1/.......s-->(if ex=60) print
 0
 0
 
-
+39. update: 15-06-2019
+boj1152.c
+count the words!
+-no continuous blank
+-blank can exist between words or before/after string
 ==============================================================================================
 Happy Coding!
